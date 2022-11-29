@@ -27,4 +27,4 @@ Run the demo:
 ./run-demo.sh
 
 Watch the demo:
-![play](cve-demo.gif)
+![play](https://github.com/afflom/tc-demo/blob/main/cve-demo.gif)
