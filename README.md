@@ -25,3 +25,6 @@ Build the demo:
 
 Run the demo:
 ./run-demo.sh
+
+Watch the demo:
+![play](cve-demo.gif)
